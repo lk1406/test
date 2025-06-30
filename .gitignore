@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+bin/
+obj/
+dist/
+*.egg-info/
+*.egg
+*.apk
+
+# Buildozer & p4a files
+.buildozer/
+.localstorage/
+.dirty
+.spec
+
+# Logs and IDE files
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# PyCharm and VS Code
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+
+# Kivy
+*.kv~
+
+# Gradle / Java Android build cache
+.gradle/
+*.keystore
+
+# Temporary or test files
+test.*
+*.tmp
